@@ -3,7 +3,7 @@
 基于 java+ssm+mysql实现的网上书城项目，ssm网上书店（期末大作业，毕业设计） java书城，servlet书城，jsp书城，mysql书城， java商城，servlet商城，jsp商城，mysql商城。 java书店，servlet书店，jsp书店，mysql书店
 
 ## 安装与下载【idea与eclipse与myeclipse均可运行】
-## 加QQ：2108657327 免费获取项目源代码！！！
+## 加QQ：2108657327 发项目源代码！！ 可以帮助远程调试运行好 【源码+数据库+远程调试】只要29元，运行不成功不收费
 
 ## 特性/功能
 
